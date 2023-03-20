@@ -13,11 +13,11 @@ Friendbase is a web-based application that allows you to store and manage your c
 ## Installation
 
 1. Clone the repository to your local machine.
-git clone https://github.com/<username>/friendbase.git
+-`git clone https://github.com/<username>/friendbase.git`
 
 2. Install the dependencies.
-cd friendbase
-npm install
+-`cd friendbase`
+-`npm install`
 
 3. Set up the database connection. 
     - Create a MongoDB database named `friendbase`.
@@ -25,11 +25,11 @@ npm install
     - Create a user with read/write access to the `friendbase` database.
 
 4. Create a `.env` file in the root directory of the project and add the following configuration details.
-DB_URI=mongodb://<username>:<password>@<host>:<port>/friendbase
-PORT=3000
+-`DB_URI=mongodb://<username>:<password>@<host>:<port>/friendbase`
+-`PORT=3000`
 
 5. Start the server.
-npm start
+-`npm start`
 
 
 ## API Endpoints
