@@ -26,7 +26,7 @@ Friendbase is a web-based application that allows you to store and manage your c
 
 4. Create a `.env` file in the root directory of the project and add the following configuration details.
     - `DB_URI=mongodb://<username>:<password>@<host>:<port>/friendbase`
-    - `PORT=3000`
+    - `PORT=8000`
 
 5. Start the server.
     - `npm start`
