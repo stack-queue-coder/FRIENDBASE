@@ -2,6 +2,8 @@
 
 Friendbase is a web-based application that allows you to store and manage your contact list of friends. It is built using Node.js and MongoDB as the database. With Friendbase, you can easily add, edit, and delete your friend's contact details.
 
+![friendbase](https://user-images.githubusercontent.com/60400251/226363411-e3aea66a-07ea-4e8e-aef3-a4c6c4a6cb36.png)
+
 ## Features
 
 - Add a new friend to your contact list with their name, email, phone number, and address
